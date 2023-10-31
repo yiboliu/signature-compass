@@ -1,0 +1,14 @@
+{
+  "name": "signature-compass-http-client-library",
+  "version": "1.0.0",
+  "description": "A simple HTTP client library for making GET requests to signature-compass/get_text_signature.",
+  "main": "httpClient.js",
+  "keywords": ["http", "request", "fetch"],
+  "author": "Yibo Liu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yiboliu/signature-compass.git",
+    "directory": "client"
+  }
+}
