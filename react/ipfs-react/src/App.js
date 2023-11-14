@@ -15,12 +15,13 @@ function App() {
     setLoading(true);
     setData(null); // Clear the existing data
     try {
-      const response = await fetch(`https://signature-compass-63lof.ondigitalocean.app/get-text-signature?hex=${encodeURIComponent(inputValue)}`);
+      const response = await fetch(`/get-text-signature?hex=${encodeURIComponent(inputValue)}`);
+      console.log(response)
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
-      const result = await response.json();
-      console.log()
+      const result = await response.text();
+      console.log(result)
       setData(result); // Set the data in state
     } catch (error) {
       console.error("Fetching data failed", error);
