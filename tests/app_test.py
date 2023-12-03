@@ -1,8 +1,6 @@
 import unittest
 from unittest.mock import patch
 import app
-import json
-import signature_compass
 
 
 class AppTestCase(unittest.TestCase):

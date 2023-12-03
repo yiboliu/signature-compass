@@ -1,5 +1,5 @@
-import signature_compass
-from flask import Flask, jsonify, request
+from server import signature_compass
+from flask import Flask, request
 import logging
 
 app = Flask(__name__)
