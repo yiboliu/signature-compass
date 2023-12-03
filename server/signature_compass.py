@@ -2,7 +2,7 @@ import argparse
 import logging
 import requests
 
-import utils
+from server import utils
 
 logging.basicConfig(level=logging.DEBUG,
                     filename='signature_compass_logs.txt',
