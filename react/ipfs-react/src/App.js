@@ -15,8 +15,10 @@ function App() {
     setLoading(true);
     setData(null); // Clear the existing data
     try {
+      // Fetching the data by calling the endpoint
       const response = await fetch(`/get-text-signature?hex=${encodeURIComponent(inputValue)}`);
       console.log(response)
+      // Throwing error if the http call fails
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }

@@ -1,0 +1,125 @@
+2023-12-12 11:27:17 INFO: hex is 1a2b3c
+2023-12-12 11:28:01 INFO: hex is 1a2b3c4d
+2023-12-12 11:28:01 INFO: result is <class 'str'>
+2023-12-12 11:47:01 INFO: hex is 1a2b3c4d
+2023-12-12 11:47:01 INFO: result is <class 'str'>
+2023-12-12 11:47:01 INFO: text_signature is test_signature
+2023-12-12 11:47:01 INFO: result is <class 'str'>
+2023-12-12 11:48:51 INFO: hex is 1a2b3c4d
+2023-12-12 11:48:51 INFO: result is <class 'str'>
+2023-12-12 11:48:51 INFO: text_signature is test_signature
+2023-12-12 11:48:51 INFO: result is <class 'str'>
+2023-12-12 11:48:51 INFO: text_signature is test_signature
+2023-12-12 11:48:51 INFO: result is <class 'str'>
+2023-12-12 11:49:27 INFO: hex is 1a2b3c4d
+2023-12-12 11:49:27 INFO: result is <class 'str'>
+2023-12-12 11:49:27 INFO: text_signature is test_signature
+2023-12-12 11:49:27 INFO: result is <class 'str'>
+2023-12-12 11:49:27 INFO: text_signature is test_signature
+2023-12-12 11:49:27 INFO: result is <class 'str'>
+2023-12-12 11:49:27 INFO: text_signature is test_signature
+2023-12-12 11:49:27 INFO: result is <class 'str'>
+2023-12-12 11:51:48 INFO: hex is 1a2b3c4d
+2023-12-12 11:51:48 INFO: result is <class 'str'>
+2023-12-12 11:51:48 INFO: text_signature is test_signature
+2023-12-12 11:51:48 INFO: result is <class 'str'>
+2023-12-12 11:51:48 INFO: text_signature is test_signature
+2023-12-12 11:51:48 INFO: result is <class 'str'>
+2023-12-12 11:51:48 INFO: text_signature is test_signature
+2023-12-12 11:51:48 INFO: result is <class 'str'>
+2023-12-12 11:51:48 INFO: text_signature is test_signature
+2023-12-12 11:51:48 INFO: result is <class 'str'>
+2023-12-12 11:52:16 INFO: hex is 1a2b3c4d
+2023-12-12 11:52:16 INFO: result is <class 'str'>
+2023-12-12 11:52:16 INFO: text_signature is test_signature
+2023-12-12 11:52:16 INFO: result is <class 'str'>
+2023-12-12 11:52:16 INFO: text_signature is test_signature
+2023-12-12 11:52:16 INFO: result is <class 'str'>
+2023-12-12 11:52:16 INFO: text_signature is test_signature
+2023-12-12 11:52:16 INFO: result is <class 'str'>
+2023-12-12 11:52:16 INFO: text_signature is test_signature
+2023-12-12 11:52:16 INFO: result is <class 'str'>
+2023-12-12 11:52:16 INFO: text_signature is test_signature
+2023-12-12 11:52:16 INFO: result is <class 'str'>
+2023-12-12 11:57:09 INFO: hex is 1a2b3c4d
+2023-12-12 11:57:09 INFO: result is <class 'str'>
+2023-12-12 11:57:09 INFO: text_signature is test_signature
+2023-12-12 11:57:09 INFO: result is <class 'str'>
+2023-12-12 11:57:09 INFO: text_signature is test_signature
+2023-12-12 11:57:09 INFO: result is <class 'str'>
+2023-12-12 11:57:09 INFO: text_signature is test_signature
+2023-12-12 11:57:09 INFO: result is <class 'str'>
+2023-12-12 11:57:09 INFO: text_signature is test_signature
+2023-12-12 11:57:09 INFO: result is <class 'str'>
+2023-12-12 11:57:09 INFO: text_signature is test_signature
+2023-12-12 11:57:09 INFO: result is <class 'str'>
+2023-12-12 11:57:43 INFO: hex is 1a2b3c4d
+2023-12-12 11:57:43 INFO: result is <class 'str'>
+2023-12-12 11:57:43 INFO: text_signature is test_signature
+2023-12-12 11:57:43 INFO: result is <class 'str'>
+2023-12-12 11:57:43 INFO: text_signature is test_signature
+2023-12-12 11:57:43 INFO: result is <class 'str'>
+2023-12-12 11:57:43 INFO: text_signature is test_signature
+2023-12-12 11:57:43 INFO: result is <class 'str'>
+2023-12-12 11:57:43 INFO: text_signature is test_signature
+2023-12-12 11:57:43 INFO: result is <class 'str'>
+2023-12-12 11:57:43 INFO: text_signature is test_signature
+2023-12-12 11:57:43 INFO: result is <class 'str'>
+2023-12-12 11:58:15 INFO: hex is 1a2b3c4d
+2023-12-12 11:58:15 INFO: result is <class 'str'>
+2023-12-12 11:58:15 INFO: text_signature is test_signature
+2023-12-12 11:58:15 INFO: result is <class 'str'>
+2023-12-12 11:58:15 INFO: text_signature is test_signature
+2023-12-12 11:58:15 INFO: result is <class 'str'>
+2023-12-12 11:58:15 INFO: text_signature is test_signature
+2023-12-12 11:58:15 INFO: result is <class 'str'>
+2023-12-12 11:58:15 INFO: text_signature is test_signature
+2023-12-12 11:58:15 INFO: result is <class 'str'>
+2023-12-12 11:58:15 INFO: text_signature is test_signature
+2023-12-12 11:58:15 INFO: result is <class 'str'>
+2023-12-12 11:58:15 INFO: The signature to be submitted is test_signature
+2023-12-12 11:58:15 INFO: result is <class 'str'>
+2023-12-12 22:21:15 INFO: hex is 1a2b3c4d
+2023-12-12 22:21:15 INFO: result is <class 'str'>
+2023-12-12 22:21:15 INFO: text_signature is test_signature
+2023-12-12 22:21:15 INFO: result is <class 'str'>
+2023-12-12 22:21:15 INFO: text_signature is test_signature
+2023-12-12 22:21:15 INFO: result is <class 'str'>
+2023-12-12 22:21:15 INFO: text_signature is test_signature
+2023-12-12 22:21:15 INFO: result is <class 'str'>
+2023-12-12 22:21:15 INFO: text_signature is test_signature
+2023-12-12 22:21:15 INFO: result is <class 'str'>
+2023-12-12 22:21:15 INFO: text_signature is test_signature
+2023-12-12 22:21:15 INFO: result is <class 'str'>
+2023-12-12 22:21:15 INFO: The signature to be submitted is test_signature
+2023-12-12 22:21:15 INFO: result is <class 'str'>
+2023-12-12 23:01:25 DEBUG: Starting new HTTP connection (1): www.4byte.directory:80
+2023-12-12 23:01:25 DEBUG: http://www.4byte.directory:80 "GET /api/v1/signatures/?text_signature__iexact HTTP/1.1" 301 None
+2023-12-12 23:01:25 DEBUG: Starting new HTTPS connection (1): www.4byte.directory:443
+2023-12-12 23:01:25 DEBUG: https://www.4byte.directory:443 "GET /api/v1/signatures/?text_signature__iexact HTTP/1.1" 200 None
+2023-12-12 23:01:30 DEBUG: Starting new HTTP connection (1): www.4byte.directory:80
+2023-12-12 23:01:30 DEBUG: http://www.4byte.directory:80 "GET /api/v1/signatures/?text_signature__iexact HTTP/1.1" 301 None
+2023-12-12 23:01:30 DEBUG: Starting new HTTPS connection (1): www.4byte.directory:443
+2023-12-12 23:01:30 DEBUG: https://www.4byte.directory:443 "GET /api/v1/signatures/?text_signature__iexact HTTP/1.1" 200 None
+2023-12-12 23:17:05 INFO: submitting text signature test_signature
+2023-12-12 23:17:05 INFO: submitting text signature test_signature, status no ok: <Mock name='post()' id='4473627088'>
+2023-12-12 23:17:05 INFO: submitting text signature test_signature
+2023-12-12 23:17:05 INFO: submitting text signature test_signature, status ok. Looking back to 4bytes database to verify...
+2023-12-12 23:17:05 INFO: submitting text signature test_signature, status ok. But not found in 4bytes database
+2023-12-12 23:17:05 INFO: submitting text signature test_signature
+2023-12-12 23:17:05 INFO: submitting text signature test_signature, status ok. Looking back to 4bytes database to verify...
+2023-12-12 23:17:05 INFO: submitting text signature test_signature, status ok. Found in 4bytes database
+2023-12-12 23:17:13 INFO: submitting text signature test_signature
+2023-12-12 23:17:13 INFO: submitting text signature test_signature, status ok. Looking back to 4bytes database to verify...
+2023-12-12 23:17:13 INFO: submitting text signature test_signature, status ok. But not found in 4bytes database
+2023-12-12 23:17:13 INFO: submitting text signature test_signature
+2023-12-12 23:17:13 INFO: submitting text signature test_signature, status ok. Looking back to 4bytes database to verify...
+2023-12-12 23:17:13 INFO: submitting text signature test_signature, status ok. Found in 4bytes database
+2023-12-12 23:17:22 INFO: submitting text signature test_signature
+2023-12-12 23:17:22 INFO: submitting text signature test_signature, status no ok: <Mock name='post()' id='4402805344'>
+2023-12-12 23:17:22 INFO: submitting text signature test_signature
+2023-12-12 23:17:22 INFO: submitting text signature test_signature, status ok. Looking back to 4bytes database to verify...
+2023-12-12 23:17:22 INFO: submitting text signature test_signature, status ok. But not found in 4bytes database
+2023-12-12 23:17:22 INFO: submitting text signature test_signature
+2023-12-12 23:17:22 INFO: submitting text signature test_signature, status ok. Looking back to 4bytes database to verify...
+2023-12-12 23:17:23 INFO: submitting text signature test_signature, status ok. Found in 4bytes database
